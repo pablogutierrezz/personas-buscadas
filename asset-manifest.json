@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/personas-buscadas/static/css/main.9bb2b921.css",
+    "main.js": "/personas-buscadas/static/js/main.f370d633.js",
+    "static/js/787.28cb0dcd.chunk.js": "/personas-buscadas/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/personas-buscadas/index.html",
+    "main.9bb2b921.css.map": "/personas-buscadas/static/css/main.9bb2b921.css.map",
+    "main.f370d633.js.map": "/personas-buscadas/static/js/main.f370d633.js.map",
+    "787.28cb0dcd.chunk.js.map": "/personas-buscadas/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb2b921.css",
+    "static/js/main.f370d633.js"
+  ]
+}
